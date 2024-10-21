@@ -1,11 +1,15 @@
 Cooler: tienda de zapatos virtual
 
 Resumen
+
 Se busca desarrollar una página para la comercialización de tenis, donde se podrá ver el catálogo disponible, según el filtro aplicado. Los usuarios podrán registrarse, buscando mantener su historial de compra relacionado con el inicio de sesión, así como el seguimiento de pedidos. Adicionalmente, se podrán realizar las compras por este medio y habrá la posibilidad de entablar contacto a través de un chat virtual, con el asesor disponible y/o chat bot.
 
 Objetivos
+
 • Desarrollar una plataforma que permita la visualización y comercialización de calzado original.
+
 • Automatizar por medio de un chatbot, respuestas a consultas frecuentes.
+
 • Potenciar y formalizar las ventas del emprendimiento, por medio de las herramientas tecnológicas disponibles.
 
 Módulos a desarrollar
