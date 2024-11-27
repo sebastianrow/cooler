@@ -1,0 +1,16 @@
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+:root {
+  --primary-color: #a69383;
+  --secondary-color: #fffefc;
+  --third-color: #f2e4d8;
+  --text-color: #729da6;
+  --background-color: #d8eef2;
+}
+
+body {
+  margin: 0;
+}
